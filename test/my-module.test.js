@@ -1,6 +1,6 @@
-import { HobbitSettlement } from '../public/another-module.js';
+//import { HobbitSettlement } from '../public/another-module.js';
 
-import { theShire, statement } from '../public/my-module.js';
+import { theShire, statement, HobbitSettlement } from '../public/my-module.js';
 
 import { expect } from 'chai';
 
